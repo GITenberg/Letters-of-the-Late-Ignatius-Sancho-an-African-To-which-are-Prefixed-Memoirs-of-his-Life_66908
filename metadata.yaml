@@ -1,0 +1,28 @@
+_repo: Letters-of-the-Late-Ignatius-Sancho-an-African-To-which-are-Prefixed-Memoirs-of-his-Life_66908
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sancho, Ignatius
+    gutenberg_agent_id: '54020'
+    url: http://www.gutenberg.org/2009/agents/54020
+description: ''
+gutenberg_issued: '2021-12-09'
+identifiers:
+  gutenberg: '66908'
+language: en
+pgterms:marc904: https://archive.org/details/lettersoflateign00sanc_0/page/n7/mode/2up
+pgterms:marc905: 20200518015748sancho
+pgterms:marc906: '1784'
+pgterms:marc907: GB
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United Kingdom :J. Nichols,1784.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Letters of the Late Ignatius Sancho, an African: To which are Prefixed, Memoirs
+  of his Life'
+url: http://www.gutenberg.org/ebooks/66908
