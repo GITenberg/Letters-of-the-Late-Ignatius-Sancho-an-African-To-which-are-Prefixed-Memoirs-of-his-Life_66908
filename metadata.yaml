@@ -1,11 +1,16 @@
 _repo: Letters-of-the-Late-Ignatius-Sancho-an-African-To-which-are-Prefixed-Memoirs-of-his-Life_66908
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66908-h/images/cover.jpg
 creator:
   author:
     agent_name: Sancho, Ignatius
     gutenberg_agent_id: '54020'
     url: http://www.gutenberg.org/2009/agents/54020
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66908#Letters-of-the-Late-Ignatius-Sancho-an-African-To-which-are-Prefixed-Memoirs-of-his-Life
 gutenberg_issued: '2021-12-09'
 identifiers:
   gutenberg: '66908'
